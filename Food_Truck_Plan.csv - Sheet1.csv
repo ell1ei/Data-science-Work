@@ -1,0 +1,10 @@
+Time,Name,Address,Crusine,Travel Distance,Travel Time,Transportation Type
+8:00 AM,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204",American,1.1 Miles,5 mins,Car
+3:00 PM,Emergency Taco Truck,"7001 Pendleton Pike, Indianapolis, IN 46226",Taco,8.1 miles,15 mins,Car
+7:30 PM,Mi Lindo Penjamo -Food Truck,"801 W Washington St, Indianapolis, IN 46204",Taco,17.3 Miles,23 mins,Car
+9:00 PM,Oasis Taco Truck,"7085 N Michigan Rd, Indianapolis, IN 46268",Mexican,1.1 miles ,3 mins,Car
+10:00 PM,Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222",Taco,6.2 miles,13 mins,Car
+11:00 PM,Tacos El Iturbidense,"Circle K Parking Lot, 6402 W 10th St, Indianapolis, IN 46214",Taco,5.4 miles,13 mins,Car
+11:30 PM,Tacos Tierra caliente ,"5035 W Washington St, Indianapolis, IN 46241",Taco,3.9 miles,8 mins,Car
+1:00 PM,T-N-T Hot Dogs & Mobile Catering,"395 E Hanna Ave, Indianapolis, IN 46227",Hot Dogs,12.3 miles,18 mins,Car
+Null,Super Tacos food truck,"7202 E Washington St, Indianapolis, IN 46219",Taco,11.9 miles,16 mins,Car
